@@ -36,3 +36,4 @@ if __name__ == "__main__":
     setup_gui()
 
 #Developed in 2022 - SoloStudio
+#SoloStudio
