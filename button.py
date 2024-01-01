@@ -10,7 +10,7 @@ import tkinter as tk
 def click_button():
     global number
     number += 1
-    show_info["text"] = f"You Clicked {number} times."
+    show_info["text"] = "You Clicked {number} times."
 
 def setup_gui():
     root = tk.Tk()
